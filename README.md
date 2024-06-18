@@ -1,4 +1,4 @@
-## Welcome Internet Travellers to my lil space👋
+## Welcome Internet Travelers to my lil space👋
 
 <!--
 **WandererGuy/WandererGuy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
